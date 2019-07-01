@@ -1,12 +1,3 @@
 {
-    "Message": "New blacklist file set so that parent file set's patch id can be inherited by the new file set.",
-    "IsSuccess": true,
-    "Errors": [],
-    "Content": {
-        "FileSetIDs": [
-            35989476,
-            35989477,
-            35989475
-        ]
-    }
+    "Message": "New blacklist file set so that parent file set's patch id can be inherited by the new file set."    
 }
